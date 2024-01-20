@@ -1,4 +1,4 @@
-# Assessing accuracy of AWS Textract
+# Assessing the accuracy of AWS Textract
 
 ## Amazon Textract Demo
 This README provides a step-by-step instructions for uploading files to Amazon S3 and using
