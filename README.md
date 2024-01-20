@@ -1,4 +1,5 @@
 # Assessing the accuracy of AWS Textract
+Fall 2023
 
 ## Amazon Textract Demo
 This README provides a step-by-step instructions for uploading files to Amazon S3 and using
